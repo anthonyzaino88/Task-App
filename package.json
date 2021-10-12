@@ -1,6 +1,7 @@
 {
   "name": "task-list",
-  "homepage": "https://github.com/anthonyzaino88/Task-App",
+  "homepage": "http://anthonyzaino88.github.io/Task-App",
+
   "version": "0.1.0",
   "private": true,
   "dependencies": {
